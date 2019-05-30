@@ -1,0 +1,4 @@
+github.com/opentracing/opentracing-go v1.1.0 h1:pWlfV3Bxv7k65HYwkikxat0+s3pV4bsqf19k25Ur8rU=
+github.com/opentracing/opentracing-go v1.1.0/go.mod h1:UkNAQd3GIcIGf0SeVgPpRdFStlNbqXla1AfSYxPUl2o=
+github.com/topfreegames/go-extensions-tracing v1.0.0 h1:ePX6pT2ykfGK0Ic3OGm/4Jo3JyXuAsJd6/Skgk90CUQ=
+github.com/topfreegames/go-extensions-tracing v1.0.0/go.mod h1:z7Emn6vCEQ4Sn5caAyPYjNCkrTskv3FS4GLvsb6cdG8=
